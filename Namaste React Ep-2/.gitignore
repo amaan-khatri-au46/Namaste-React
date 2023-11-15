@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+build/
+
+out/
+.parcel-cache
+
+# Log files
+*.log
+logs/
+
+# Yarn
+yarn-error.log
+.yarn-integrity
+
+# Parcel cache
+.cache/
+
+# npm
+*.md
+
+# Dependency directories
+.jenkins/
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
