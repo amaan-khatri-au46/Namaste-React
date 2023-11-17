@@ -1,0 +1,1 @@
+{"mappings":"ACAA,mBAIA","sources":["index.db6fee50.css","index.css"],"sourcesContent":["#heading {\n  color: red;\n}\n\n#child {\n  color: #00f;\n}\n\n/*# sourceMappingURL=index.db6fee50.css.map */\n","#heading {\n  color: red;\n}\n\n#child {\n  color: blue;\n}\n"],"names":[],"version":3,"file":"index.db6fee50.css.map"}
