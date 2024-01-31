@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.logo {
+  width: 200px;
+}
+
+.nav-items > ul {
+  display: flex;
+  padding-right: 6rem;
+  font-size: 24px;
+  list-style-type: none;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.res-card {
+  width: 200px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+.Search {
+  padding: 10px;
+}
+
+.res-logo {
+  width: 100%;
+}
